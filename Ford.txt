@@ -1,0 +1,12 @@
+Specifications of Ford:
+
+Fuel Type             Petrol
+Transmission Manual   5 Gears
+Mileage               ARAI Reported 17
+Engine                1497 cc, 3 Cylinders Inline, 
+                      4 Valves/Cylinder, DOHC
+Engine Type           1.5L Ti-VCT (Petrol)
+Peak Power (bhp@rpm)  121 bhp @ 6500 rpm
+Peak Torque (Nm@rpm)  150 Nm @ 4500 rpm
+Drivetrain            FWD
+Emission Standard     BS 4

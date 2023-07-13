@@ -1,0 +1,13 @@
+Specifications of Hyundai:
+
+
+ARAI Mileage (Certified)	23.7 kmpl
+Top Speed	                165 kmph
+Engine cc (Displacement)	1493 cc
+Number of Gears          	6-Speed Manual
+Maximum Power	                100 HP @ 4000 rpm
+Maximum Torque	                240 Nm @ 1500-2750 rpm
+Ground Clearance	        195 mm
+Kerb Weight	                1168 kg
+Boot Space	                350 litres
+Fuel Tank Capacity	        45 litres

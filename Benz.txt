@@ -1,0 +1,14 @@
+Specifications of Benz:
+
+ARAI Mileage                        15.5 kmpl
+Fuel Type                           Petrol
+Engine Displacement (cc)            1595
+No. of cylinder                     4
+Max Power (bhp@rpm)                 120.6bhp@5000rpm 
+Max Torque (nm@rpm)                 200Nm@1250-4000rpm
+Seating Capacity                    5
+TransmissionType                    Automatic
+Boot Space (Litres)                 341
+Fuel Tank Capacity                  50.0
+Body Type                           Hatchback
+Ground Clearance Unladen            160 mm

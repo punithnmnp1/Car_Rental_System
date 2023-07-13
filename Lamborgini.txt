@@ -1,0 +1,13 @@
+Specifications of Lamborgini:
+
+Fuel Type                     Petrol
+Engine Displacement (cc)      6498
+No. of cylinder               12
+Max Power (bhp@rpm)           759.01bhp@8500rpm
+Max Torque (nm@rpm)           720Nm@6750rpm 
+Seating Capacity              2
+TransmissionType              Automatic
+Boot Space (Litres)           110
+Fuel Tank Capacity            90.0
+Body Type                     Coupe
+Ground Clearance Unladen      125mm

@@ -1,0 +1,11 @@
+Specifications of Toyota :
+
+Power @ RPM	                        150kW @ 3400rpm (201.2 hp)
+Torque @ RPM	                        500Nm @ 1600rpm (368.7 lb-ft)
+Cylinders	                        turbocharged four-cylinder
+Fuel type	                        DIESEL
+Fuel tank capacity	                150L
+Fuel consumption (combined average)	7.9L / 100km
+Fuel consumption city (average)	        9.6L / 100km
+Fuel consumption highway (average)	7.0L / 100km
+Vehicle range	                        1898.7km (1179.8 miles)

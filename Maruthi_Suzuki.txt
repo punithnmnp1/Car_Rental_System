@@ -1,0 +1,11 @@
+Specifications of Maruthi_Suzuki:
+
+ARAI Mileage	        17.03 kmpl
+Fuel Type	        Petrol
+Max Power (bhp @ rpm)	103.26 bhp@ 6000 rpm
+Seating Capacity	5
+Transmission Type	Manual
+Fuel Tank Capacity	48 Litres litre
+Engine Displacement	1462 cc
+Max Torque (nm@rpm)	138 Nm @4400 rpm
+Boot Space (Litres)	328 Litres
