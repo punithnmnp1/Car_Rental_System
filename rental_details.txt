@@ -1,0 +1,131 @@
+bill generated at:Sat Jul 15 15:38:37 2023
+
+Customer Name: Punith
+Address: banglore
+Car Model: 3
+Car Number: 1232
+Number of Days: 7
+Rent Fee: 1225
+
+bill generated at:Sat Jul 15 15:40:16 2023
+
+Customer Name: rajashekar
+Address: bagepalli
+Car Model: 5
+Car Number: 1532
+Number of Days: 8
+Rent Fee: 1600
+
+bill generated at:Sat Jul 15 16:03:45 2023
+
+Customer Name: punith
+Address: banglore
+Car Model: 3
+Car Number:1423 
+Number of Days: 6
+Rent Fee: 1050
+
+bill generated at:Sat Jul 15 16:08:13 2023
+
+Customer Name: harsh
+Address: raichur
+Car Model: 4
+Car Number: 4562
+Number of Days: 8
+Rent Fee: 1520
+
+
+bill generated at:Sat Jul 15 23:08:46 2023
+
+Customer Name: punith
+Address: bengaluru
+Car Model: 5
+Car Number: 6723
+Number of Days: 7
+Rent Fee: 1400
+
+bill generated at:Sun Jul 16 19:56:01 2023
+
+Customer Name: buvan
+Address: marathalli
+Car Model: 6
+Car Number: 4567
+Number of Days: 6
+Rent Fee: 1350
+
+bill generated at:Sun Jul 16 19:58:19 2023
+
+Customer Name: nithin
+Address: banglore
+Car Model: 6
+Car Number: 7886
+Number of Days: 6
+Rent Fee: 1350
+
+bill generated at:Sun Jul 16 23:15:43 2023
+
+Customer Name: ayush
+Address: raichur
+Car Model: 1
+Car Number: 7865
+Number of Days: 8
+Rent Fee: 1200
+
+
+
+bill generated at:Mon Jul 17 05:01:12 2023
+
+Customer Name: hags
+Address: bagost
+Car Model: 1
+Car Number: 4344 [Booking Canceled]
+Number of Days: 3
+Rent Fee: 450
+
+bill generated at:Mon Jul 17 05:04:16 2023
+
+Customer Name: shah
+Address: hyderbad
+Car Model: 1
+Car Number: 4563 [Booking Canceled]
+Number of Days: 6
+Rent Fee: 900
+
+
+
+bill generated at:Mon Jul 17 09:58:28 2023
+
+Customer Name: Rahul
+Address: banglore
+Car Model: 4
+Car Number: 7843 [Booking Canceled]
+Number of Days: 8
+Rent Fee: 1520
+
+bill generated at:Mon Jul 17 10:56:01 2023
+
+Customer Name: ram
+Address: bage
+Car Model: 1
+Car Number: 10000
+Number of Days: 20
+Rent Fee: 3000
+
+bill generated at:Mon Jul 17 12:44:39 2023
+
+Customer Name: raj
+Address: blore
+Car Model: 1
+Car Number: 1034
+Number of Days: 23
+Rent Fee: 3450
+
+bill generated at:Mon Jul 17 12:48:38 2023
+
+Customer Name: ajay
+Address: andra
+Car Model: 5
+Car Number: 1342
+Number of Days: 6
+Rent Fee: 1200
+
